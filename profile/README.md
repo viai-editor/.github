@@ -21,11 +21,24 @@ use of AI assistance.
 * Unix: build it from the source, see the
   [README](https://github.com/viai-editor/viai#building-and-installing).
 
+## Documentation
+
+* [ViAI help (English)](https://viai-editor.github.io/viai-doc-en/)
+* [ViAI help (Japanese)](https://viai-editor.github.io/viai-doc-ja/)
+
 ## Repositories
 
 * [viai](https://github.com/viai-editor/viai): the source code of ViAI
 * [viai-win32-installer](https://github.com/viai-editor/viai-win32-installer):
   the installer of ViAI for MS-Windows
+* [viai-doc-en](https://github.com/viai-editor/viai-doc-en): the HTML version
+  of the ViAI help
+* [viai-doc-ja](https://github.com/viai-editor/viai-doc-ja): the Japanese
+  translation of the ViAI help, as help files and as HTML
+* [viai-doc-ja-working](https://github.com/viai-editor/viai-doc-ja-working):
+  the working repository for translating the ViAI help into Japanese
 
 Bug reports and feature requests are welcome in the
 [issues of viai](https://github.com/viai-editor/viai/issues).
+Mistakes in the Japanese translation can be reported in the
+[issues of viai-doc-ja-working](https://github.com/viai-editor/viai-doc-ja-working/issues).
