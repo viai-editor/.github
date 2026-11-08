@@ -23,8 +23,8 @@ use of AI assistance.
 
 ## Documentation
 
-* [ViAI help (English)](https://viai-editor.github.io/viai-doc-en/)
-* [ViAI help (Japanese)](https://viai-editor.github.io/viai-doc-ja/)
+* [ViAI help in HTML (English)](https://viai-editor.github.io/viai-doc-en/)
+* [ViAI help in HTML (Japanese)](https://viai-editor.github.io/viai-doc-ja/)
 
 ## Repositories
 
