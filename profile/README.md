@@ -5,8 +5,8 @@
 # ViAI - Vim Advanced Integrated
 
 ViAI (pronounced "vee-eye") is a fork of [Vim](https://github.com/vim/vim),
-developed by Hirohito Higashi (h-east), a former Vim maintainer, making full
-use of AI assistance.
+being developed by Hirohito Higashi (h-east), a former Vim maintainer, making
+full use of AI assistance.
 
 * The main aim of ViAI is that [lsp.vim](https://github.com/h-east/lsp.vim)
   and [vim9ls](https://github.com/h-east/vim9ls) work well.
